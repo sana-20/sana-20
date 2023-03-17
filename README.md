@@ -41,4 +41,4 @@
 
 ---
 
-![Sana's github stats](https://github-readme-stats.vercel.app/api?username=sana-20&show_icons=true&theme=ocean_dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sana-20&layout=compat)
+![Sana's github stats](https://github-readme-stats-zeta-coral-57.vercel.app/api?username=sana-20&show_icons=true&theme=ocean_dark)
